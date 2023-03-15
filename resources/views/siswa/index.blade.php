@@ -7,6 +7,6 @@
     <title> Siswa </title>
 </head>
 <body>
-    <h1> Data Pelajar </h1>
+    <h1> Data Siswa </h1>
 </body>
 </html>
